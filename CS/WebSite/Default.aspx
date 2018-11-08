@@ -1,13 +1,13 @@
 <%-- BeginRegion Page setup --%>
 <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="ASPxperience_FloatingMode" %>
 
-<%@ Register Assembly="DevExpress.Web.v8.1" Namespace="DevExpress.Web.ASPxObjectContainer"
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxObjectContainer"
     TagPrefix="dxoc" %>
 
 <%@ Register Assembly="System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
     Namespace="System.Web.UI" TagPrefix="cc1" %>
 
-<%@ Register Assembly="DevExpress.Web.v8.1" Namespace="DevExpress.Web.ASPxPopupControl"
+<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxPopupControl"
     TagPrefix="dxpc" %>
 
 
