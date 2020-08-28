@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # PopupControl - Floating Mode Sample ('nag screen' simulation)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e163/)**
+<!-- run online end -->
 
 
 <p>In this sample, the popup window's position is not changed when the browser window is resized or its content is scrolled.<br />
